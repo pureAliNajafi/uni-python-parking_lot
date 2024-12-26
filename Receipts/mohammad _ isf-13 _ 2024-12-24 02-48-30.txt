@@ -1,0 +1,11 @@
+--Receipt--
+owner name: mohammad
+plate number: isf-13
+plate city: Isfahan
+vehicle type: Luxury Vehicle
+brand and model: bmw-i3
+hourly fee: 30.0
+checked in date: 2024-12-24 02:40:21
+check out date: 2024-12-24 02:48:30
+hours parked: 0.13583333333333333
+total fee: 4.075

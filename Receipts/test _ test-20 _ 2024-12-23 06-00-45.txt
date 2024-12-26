@@ -1,0 +1,11 @@
+--Receipt--
+owner name: test
+plate number: test-20
+plate city: Tehran
+vehicle type: Motorcycle
+brand and model: ttt-222
+hourly fee: 2.0
+checked in date: 2024-12-23 05:57:19
+check out date: 2024-12-23 06:00:45
+hours parked: 0.05722222222222222
+total fee: 0.11444444444444445

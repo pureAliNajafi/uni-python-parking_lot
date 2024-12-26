@@ -1,0 +1,11 @@
+--Receipt--
+owner name: Amir
+plate number: wes5-30
+plate city: Tehran
+vehicle type: Car
+brand and model: iran_khodro-samanf
+hourly fee: 5.0
+checked in date: 2024-12-24 15:55:43
+check out date: 2024-12-24 19:10:19
+hours parked: 3.243333333333333
+total fee: 16.216666666666665

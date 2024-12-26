@@ -1,0 +1,5 @@
+owner_name,plate_number,plate_city,vehicle_type,brand_and_model,hourly_fee,checked_in_date
+test,test3-30,Tehran,Bicycle,tt3-333,1.0,2024-12-23 05:57:45
+ali,th2-20,Tehran,Luxury Vehicle,bmw-ix,30.0,2024-10-24 02:40:21
+reza,ix8-13,Isfahan,Car,bmw-s1,5.0,2024-12-24 15:01:33
+javad,x223-19,48,Scooter,sco-r2,1.5,2024-12-24 19:09:06
