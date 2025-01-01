@@ -4,7 +4,7 @@ from Components.manager import manager
 from Components.Gui import gui
 def main():
     choice = gui.input("""
-    What would you like to do, Manager?
+    What would you like to do?
 
     1) check in
     2) check out
